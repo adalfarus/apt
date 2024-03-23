@@ -1,5 +1,5 @@
 # apt/__init__.py
-from . import apt
+from . import aptll
 import importlib
 
 
@@ -13,4 +13,4 @@ del _import_aplustools
 del importlib
 
 
-__version__ = "2.2.4"
+__version__ = "2.2.5"
