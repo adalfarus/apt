@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 packages = ["apt"]
 
 [project]
-name = "apts"
+name = "aptll"
 version = "2.2.4"
 dependencies = [
   "aplustools", 
